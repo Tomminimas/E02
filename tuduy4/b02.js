@@ -13,4 +13,4 @@ else {
         Sotiendien = 3500 * a;
     }
 }
-console.log('So tien dien cua ban la: ', Sotiendien);
+console.log('So tien dien cua ban la: ' + Sotiendien + ' dong');
